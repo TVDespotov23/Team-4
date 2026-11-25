@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.ConsoleApp\\SchoolLibrary.ConsoleApp.csproj": {}
+    "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.ConsoleApp\\SchoolLibrary.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.ConsoleApp\\SchoolLibrary.ConsoleApp.csproj": {
+    "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.ConsoleApp\\SchoolLibrary.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.ConsoleApp\\SchoolLibrary.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.ConsoleApp\\SchoolLibrary.ConsoleApp.csproj",
         "projectName": "SchoolLibrary.ConsoleApp",
-        "projectPath": "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.ConsoleApp\\SchoolLibrary.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.ConsoleApp\\SchoolLibrary.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\DSHMuhtar23\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DSHMuhtar23\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Services\\SchoolLibrary.Services.csproj": {
-                "projectPath": "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Services\\SchoolLibrary.Services.csproj"
+              "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Services\\SchoolLibrary.Services.csproj": {
+                "projectPath": "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Services\\SchoolLibrary.Services.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Data\\SchoolLibrary.Data.csproj": {
+    "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Data\\SchoolLibrary.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Data\\SchoolLibrary.Data.csproj",
+        "projectUniqueName": "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Data\\SchoolLibrary.Data.csproj",
         "projectName": "SchoolLibrary.Data",
-        "projectPath": "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Data\\SchoolLibrary.Data.csproj",
+        "projectPath": "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Data\\SchoolLibrary.Data.csproj",
         "packagesPath": "C:\\Users\\DSHMuhtar23\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Data\\obj\\",
+        "outputPath": "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DSHMuhtar23\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -127,14 +127,14 @@
         }
       }
     },
-    "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Services\\SchoolLibrary.Services.csproj": {
+    "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Services\\SchoolLibrary.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Services\\SchoolLibrary.Services.csproj",
+        "projectUniqueName": "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Services\\SchoolLibrary.Services.csproj",
         "projectName": "SchoolLibrary.Services",
-        "projectPath": "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Services\\SchoolLibrary.Services.csproj",
+        "projectPath": "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Services\\SchoolLibrary.Services.csproj",
         "packagesPath": "C:\\Users\\DSHMuhtar23\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Services\\obj\\",
+        "outputPath": "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DSHMuhtar23\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -149,8 +149,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Data\\SchoolLibrary.Data.csproj": {
-                "projectPath": "C:\\Users\\DSHMuhtar23\\11-v-student-work\\Students\\Dzhan Muhtar\\Project\\SchoolLibrary\\SchoolLibrary.Data\\SchoolLibrary.Data.csproj"
+              "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Data\\SchoolLibrary.Data.csproj": {
+                "projectPath": "C:\\Users\\DSHMuhtar23\\Team 4\\Team-4\\SchoolLibrary\\SchoolLibrary.Data\\SchoolLibrary.Data.csproj"
               }
             }
           }
