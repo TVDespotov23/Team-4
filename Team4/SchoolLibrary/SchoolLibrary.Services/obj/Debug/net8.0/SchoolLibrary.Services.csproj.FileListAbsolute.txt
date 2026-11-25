@@ -1,0 +1,47 @@
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Services.deps.json
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Services.dll
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Services.pdb
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Data.dll
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Data.pdb
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.csproj.AssemblyReference.cache
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.AssemblyInfoInputs.cache
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.AssemblyInfo.cs
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.csproj.CoreCompileInputs.cache
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLi.D8EAE327.Up2Date
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.dll
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\refint\SchoolLibrary.Services.dll
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.pdb
+C:\Users\DSHMuhtar23\rider\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\ref\SchoolLibrary.Services.dll
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Services.deps.json
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Services.dll
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Services.pdb
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Data.dll
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Data.pdb
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.csproj.AssemblyReference.cache
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.AssemblyInfoInputs.cache
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.AssemblyInfo.cs
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.csproj.CoreCompileInputs.cache
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.sourcelink.json
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLi.D8EAE327.Up2Date
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.dll
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\refint\SchoolLibrary.Services.dll
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.pdb
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Task\My Task\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\ref\SchoolLibrary.Services.dll
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Services.deps.json
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Services.dll
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Services.pdb
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Data.dll
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\bin\Debug\net8.0\SchoolLibrary.Data.pdb
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.csproj.AssemblyReference.cache
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.AssemblyInfoInputs.cache
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.AssemblyInfo.cs
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.csproj.CoreCompileInputs.cache
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.sourcelink.json
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLi.D8EAE327.Up2Date
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.dll
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\refint\SchoolLibrary.Services.dll
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\SchoolLibrary.Services.pdb
+C:\Users\DSHMuhtar23\11-v-student-work\Students\Dzhan Muhtar\Project\SchoolLibrary\SchoolLibrary.Services\obj\Debug\net8.0\ref\SchoolLibrary.Services.dll
